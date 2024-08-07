@@ -1,5 +1,5 @@
 
-# 📊 Analysing Factors of Studnent Performance
+# 📊 Analysing Factors of Student Performance
 
 ## 📝 Overview
 
